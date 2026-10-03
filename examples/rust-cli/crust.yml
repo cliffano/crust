@@ -1,0 +1,15 @@
+---
+package_name: rustcliexample
+author: Cliffano Subagio
+generator:
+  component: rust-cli
+  inputs:
+    project_id: rustcliexample
+    project_name: Rust CLI Example
+    project_desc: Rust CLI example project
+    author_name: Cliffano Subagio
+    author_email: blah@cliffano.com
+    author_url: https://github.com/cliffano
+    github_id: cliffano
+    github_repo: crust
+    github_token_prefix: STUDIO

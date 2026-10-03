@@ -1,0 +1,17 @@
+[package]
+name = "rustlibexample"
+version = "0.1.0-pre.0"
+edition = "2024"
+description = "Rust Lib example project"
+authors = ["Cliffano Subagio <blah@cliffano.com>"]
+license = "MIT"
+repository = "https://github.com/cliffano/crust"
+homepage = "https://github.com/cliffano/crust"
+
+[lib]
+name = "rustlibexample"
+path = "src/lib.rs"
+
+[dependencies]
+serde = { version = "1", features = ["derive"] }
+serde_yaml = "0.9"

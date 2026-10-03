@@ -1,0 +1,15 @@
+---
+package_name: rustlibexample
+author: Cliffano Subagio
+generator:
+  component: rust-lib
+  inputs:
+    project_id: rustlibexample
+    project_name: Rust Lib Example
+    project_desc: Rust Lib example project
+    author_name: Cliffano Subagio
+    author_email: blah@cliffano.com
+    author_url: https://github.com/cliffano
+    github_id: cliffano
+    github_repo: crust
+    github_token_prefix: STUDIO
