@@ -1,7 +1,7 @@
 [package]
 name = "rustlibexample"
 version = "0.1.0-pre.0"
-edition = "2024"
+edition = "2021"
 description = "Rust Lib example project"
 authors = ["Cliffano Subagio <blah@cliffano.com>"]
 license = "MIT"
