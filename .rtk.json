@@ -1,10 +1,10 @@
 {
   "resources": [
     {
-      "path": "src/Makefile-suntory",
+      "path": "src/Makefile-crust",
       "type": "makefile",
       "params": {
-        "variable": "SUNTORY_VERSION"
+        "variable": "CRUST_VERSION"
       }
     },
     {
